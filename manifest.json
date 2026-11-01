@@ -1,0 +1,16 @@
+{
+  "name": "Title Race — EPL Season Simulator",
+  "short_name": "Title Race",
+  "description": "Play out a full Premier League season by hand: enter every score and goalscorer, build the table, and chase the title.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f2fb",
+  "theme_color": "#38125c",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
